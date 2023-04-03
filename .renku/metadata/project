@@ -1,0 +1,38 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "2.3.2",
+  "annotations": [],
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "ivan.sievering@epfl.ch",
+      "id": "mailto:ivan.sievering@epfl.ch",
+      "name": "Ivan-Daniel Sievering"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2023-04-03T07:37:19.919403+00:00"
+  },
+  "description": "",
+  "id": "/projects/ivan.sievering/demystifying-ai-and-ml-exercises",
+  "keywords": [],
+  "minimum_renku_version": "2.1.0",
+  "name": "Demystifying AI and ML Exercises",
+  "template_metadata": {
+    "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
+    "@renku_data_value": {
+      "immutable_template_files": [],
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.5.0\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"ivan.sievering\", \"__repository__\": \"https://renkulab.io/gitlab\", \"__sanitized_project_name__\": \"demystifying-ai-and-ml-exercises\", \"__project_slug__\": \"ivan.sievering/demystifying-ai-and-ml-exercises\", \"__project_description__\": \"\", \"__renku_version__\": \"2.3.2\", \"name\": \"Demystifying AI and ML Exercises\", \"__name__\": \"Demystifying AI and ML Exercises\", \"__template_version__\": \"77af22c610cbccde6ba57cccdc4c0bbd2e6d14bc\", \"__automated_update__\": true}",
+      "ssh_supported": true,
+      "template_id": "python-minimal",
+      "template_ref": "0.5.0",
+      "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+      "template_version": "77af22c610cbccde6ba57cccdc4c0bbd2e6d14bc"
+    }
+  },
+  "version": 10
+}

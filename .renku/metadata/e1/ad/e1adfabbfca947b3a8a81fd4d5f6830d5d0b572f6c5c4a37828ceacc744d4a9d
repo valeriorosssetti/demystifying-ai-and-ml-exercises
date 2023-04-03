@@ -1,0 +1,26 @@
+{
+  "@renku_data_type": "BTrees.OOBTree.OOBucket",
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          "downstream",
+          {
+            "@renku_data_type": "BTrees.OOBTree.OOBucket",
+            "@renku_oid": "59892c80cbd74ae492202229d941d5e0b4a7c332fb3740d8b0d03deadf67e450",
+            "@renku_reference": true
+          },
+          "upstream",
+          {
+            "@renku_data_type": "BTrees.OOBTree.OOBucket",
+            "@renku_oid": "cf86c4e056dd4bb683f3b130feb242ba72bf779b1b8d4cad9f5235723bc8d9a7",
+            "@renku_reference": true
+          }
+        ]
+      }
+    ]
+  },
+  "@renku_oid": "e1adfabbfca947b3a8a81fd4d5f6830d5d0b572f6c5c4a37828ceacc744d4a9d"
+}
